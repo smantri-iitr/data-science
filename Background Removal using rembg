@@ -17,4 +17,4 @@ output_array = rembg.remove(input_array)
 output_image = Image.fromarray(output_array)
 
 # Save the output image
-output_image.save('output_image.jpg')
+output_image.save('output_image.png')
